@@ -1,7 +1,5 @@
 India Aerospace Components Export Analysis (2019-2023)
 
-Author: Atharva Sapate
-PRN: 22070521165
 
 1. Abstract
 
