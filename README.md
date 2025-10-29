@@ -169,14 +169,3 @@ Advanced Models: Explore more sophisticated time-series models (ARIMA, SARIMA, P
 External Factors: Integrate macroeconomic indicators (e.g., GDP growth), specific policy changes, or global demand metrics as features in a multivariate forecasting model.
 
 Error Analysis: Perform a more detailed analysis of the model's prediction errors.
-
-9. Literature Review / References
-
-(This section includes references from the initial research context provided in 22070521165_Atharva_Sapate.docx for background.)
-
-The literature suggests aerospace exports are influenced by policy, market shifts, and technology. Advanced analytics improve prediction.
-
-[1] Gupta, R., et al. (2020). Time series analysis... Stratview Research Report.
-[2] Jain, A., & Banerjee, M. (2021). ARIMA modeling applications... Journal of Indian Economic Studies.
-[3] Singh, V., et al. (2023). Impact of export incentives... Asian Journal of Trade and Economics.
-(... Include other relevant references from your initial report ...)
